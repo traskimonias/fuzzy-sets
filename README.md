@@ -26,19 +26,19 @@ Given the speed of a car and the distance from the closest curve calculates the 
 
 Distance:
 
-![distance diagram](.\docs\distance-fuzzy-set.jpg)
+![distance diagram](./docs/distance-fuzzy-set.jpg)
 Speed:
 
-![speed diagram](.\docs\speed-fuzzy-set.jpg)
+![speed diagram](./docs/speed-fuzzy-set.jpg)
 Zoom:
 
-![zoom diagram](.\docs\zoom-fuzzy-set.jpg)
+![zoom diagram](./docs/zoom-fuzzy-set.jpg)
 
 ### The rules
 
 Rules:
 
-![rules diagram](.\docs\diagram.png)
+![rules diagram](./docs/diagram.png)
 
 
 
