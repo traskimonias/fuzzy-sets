@@ -38,7 +38,7 @@ Zoom:
 
 Rules:
 
-![rules diagram](./docs/diagram.png)
+![rules diagram](./docs/results.png)
 
 
 
